@@ -11,8 +11,6 @@ var _d = require("d3");
 
 var _propTypes = _interopRequireDefault(require("prop-types"));
 
-require("./style.css");
-
 var _customHooks = _interopRequireDefault(require("./customHooks"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
